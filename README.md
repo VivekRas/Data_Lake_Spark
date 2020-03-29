@@ -1,7 +1,7 @@
 # Data lake with Spark
 ## Tools - Spark SQL, Spark DataFrames, Python and AWS
 
-ELT pipeline that extracts data from S3, processes it using Spark, and loads it back on S3 as a set of dimensional tables into partitioned parquet files
+ETL pipeline that extracts data from S3, processes it using Spark, and loads it back on S3 as a set of dimensional tables into partitioned parquet files
 
 ## Purpose of this database 
 As their database grows Sparkify has migrated on the cloud. 
